@@ -62,4 +62,3 @@ struct ColoredLineChart: UIViewRepresentable {
         return LineChartData(dataSet: set1)
     }
 }
-
